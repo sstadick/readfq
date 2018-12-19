@@ -1,5 +1,7 @@
 [![Documentation](https://godoc.org/github.com/sstadick/readfq?status.svg)](http://godoc.org/github.com/sstadick/readfq)
 [![Go Report Card](https://goreportcard.com/badge/github.com/sstadick/readfq)](https://goreportcard.com/report/github.com/sstadick/readfq)
+[![Maintainability](https://api.codeclimate.com/v1/badges/15d5ff1cb3d07eca8b4f/maintainability)](https://codeclimate.com/github/sstadick/readfq/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/15d5ff1cb3d07eca8b4f/test_coverage)](https://codeclimate.com/github/sstadick/readfq/test_coverage)
 
 # readfq
 A packaged version of readfq implementation for reading fastq and fastq formatted files.
