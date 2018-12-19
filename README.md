@@ -10,6 +10,10 @@ A packaged version of readfq implementation for reading fastq and fastq formatte
 ## Synopsis
 readfq is a fast and light wieght package for processing FASTA and FASTQ formatted files. This package aims to make it easy to include for your project as a dependancy, or just copy and paste it in. Tests are being added for peace of mind.
 
+
+## Examples
+Please see the [docs](https://godoc.org/github.com/sstadick/readfq)
+
 ## Prior Art
 This Go version is a port of [drio's][1] version, which can be found [here][2]. He also did a nice write up of
 it [here][3]. Additionally, other implementations, as well as the original c implementation can be found
