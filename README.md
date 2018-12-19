@@ -10,6 +10,8 @@ This Go version is a port of [drio's][1] version, which can be found [here][2]. 
 it [here][3]. Additionally, other implementations, as well as the original c implementation can be found
 [here][4]. A good discussion of related parsers can be found on biostars [here][5]
 
+## Contributing
+Yes! Please do, this includes bug reports, things you tought about, or PR's.
 
 [1]: https://github.com/drio
 [2]: https://github.com/drio/drio.go/blob/master/bio/fasta/fasta.go

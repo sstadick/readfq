@@ -1,6 +1,6 @@
-// Package fasta is a light weight package for reading fast{a,q} files
+// Package readfq is a light weight package for reading fast{a,q} files
 // It has been adapted from http://drio.github.io/2012/10/golang-performance/
-package fasta
+package readfq
 
 import (
 	"bufio"
