@@ -40,16 +40,6 @@ var space = []byte(" ")
 // Iter iterates over the Records in a fasta fastq file
 // Example (number of reacords and sequence/qual lenghts):
 //
-// fp, r := files.Xopen("-")
-// defer fp.Close()
-// n, sLen, qLen := 0, int64(0), int64(0)
-// var fqr fasta.FqReader
-// fqr.Reader = r // Any reader you want ..
-// for r, done := fqr.iter(); !done; r, done = fqr.iter() {
-// 	n += 1
-//  sLen += int64(len(r.seq))
-//  qLen += int64(len(r.qual))
-// }
 //
 func (fq *FqReader) Iter() (Record, bool) {
 	if fq.finished {
