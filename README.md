@@ -1,3 +1,6 @@
+[![Documentation](https://godoc.org/github.com/sstadick/readfq?status.svg)](http://godoc.org/github.com/sstadick/readfq)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sstadick/readfq)](https://goreportcard.com/report/github.com/sstadick/readfq)
+
 # readfq
 A packaged version of readfq implementation for reading fastq and fastq formatted files.
 
